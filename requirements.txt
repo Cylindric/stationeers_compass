@@ -1,2 +1,2 @@
+click==8.1.7
 xmltodict==0.13.0
-watchdog==4.0.0
